@@ -2,4 +2,4 @@
 
 Welcome to my collection of projects! Here are the links:
 
-- [Project 1](https://github.com/GojiyaDev/To_Do_List)
+- [Project 1]([https://github.com/GojiyaDev/To_Do_List](https://github.com/GojiyaDev/To_Do_List/blob/main/README.md))
